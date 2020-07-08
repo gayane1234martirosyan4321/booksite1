@@ -1,0 +1,13 @@
+.card1{
+  display:inline-block;
+  
+}
+.card2{
+   display:inline-block;
+   margin:10px;
+  }
+
+.all{
+  width:1000px;
+  margin:auto;
+}
